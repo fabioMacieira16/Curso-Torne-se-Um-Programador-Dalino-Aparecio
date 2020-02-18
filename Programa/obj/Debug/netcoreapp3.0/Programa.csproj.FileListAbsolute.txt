@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.exe
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.deps.json
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.runtimeconfig.json
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.runtimeconfig.dev.json
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.dll
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\bin\Debug\netcoreapp3.0\Programa.pdb
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\obj\Debug\netcoreapp3.0\Programa.csprojAssemblyReference.cache
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\obj\Debug\netcoreapp3.0\Programa.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\obj\Debug\netcoreapp3.0\Programa.AssemblyInfo.cs
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\obj\Debug\netcoreapp3.0\Programa.dll
+C:\Users\fabio\Documents\Documentos\Estudos\Torne-seUmProgramador\Programa\obj\Debug\netcoreapp3.0\Programa.pdb
