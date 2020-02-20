@@ -45,11 +45,25 @@ namespace Programa
 
         }
 
+        public const int SAIDA_PROGRAMA = 1;
+
+
+
         static void Main(string[] args)
-        {  
-            Tabuada(9);
+        {
+            while (true)
+            {
+                Console.WriteLine("Digite " + SAIDA_PROGRAMA + " Para sair do Programa");
+                int valor = int.Parse(Console.ReadLine());
+
+                if (SAIDA_PROGRAMA == valor)
+                {
+                    break;
+                }
+
+            }
             LerArquivo(1);
-            Console.ReadLine();
+            
         }
     }
 }
